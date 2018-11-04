@@ -7,5 +7,5 @@ from thrift.boxup import *
 from thrift.TMultiplexedProcessor import *
 from thrift.TSerialization import *
 from thrift.TRecursive import *
-from thrift import transport, protocol, server, ext
+from thrift import transport, protocol, server
 ```
